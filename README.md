@@ -27,6 +27,7 @@ Replace REPLACE-WITH-REPO-NAME above with your actual repo name once it's on Git
 
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=srija26006&show_icons=true&theme=default&title_color=B8863A&icon_color=5C7A62&text_color=333&border_color=DAD4C4" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=srija26006&theme=default&hide_border=true&background=F7F5EF&ring=B8863A&fire=B8863A&currStreakLabel=B8863A" alt="GitHub Streak" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srija26006&layout=compact&theme=default&title_color=B8863A&text_color=333&border_color=DAD4C4" alt="Top Languages"/> </div>
+<br><br>
 🏆 Certifications
 Programming in Java (Elite) — NPTEL, IIT Kharagpur (2025)
 Fundamentals of Data Science with Python — Infosys Springboard (2026)
