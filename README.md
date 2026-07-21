@@ -1,5 +1,6 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=B8863A&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mala+Srija+%F0%9F%91%8B;Front-End+Developer+%7C+CSE+Undergraduate;Currently+sharpening+DSA+%26+Problem+Solving" alt="Typing SVG" /> </div>
-🧑‍💻 About Me
+<h5>🧑‍💻 About Me</h5>
+<br>
 🎓 B.Tech Computer Science undergraduate at Vardhaman College of Engineering (2024–2028)
 💻 Focused on front-end development — HTML, CSS, JavaScript, React.js
 🌱 Also working with Node.js, Express.js, MongoDB on the back-end
